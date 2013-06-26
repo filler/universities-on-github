@@ -16,3 +16,4 @@ Help to grow the list.  **Fork, extend, pull request!**
 * [Wayne State University](https://github.com/waynestate)
 * [Yale University (Student Technology)](https://github.com/YaleSTC)
 * [York University (Libraries)](https://github.com/yorkulibraries)
+* [The George Washington University (Libraries)](https://github.com/organizations/gwu-libraries)

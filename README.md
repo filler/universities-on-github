@@ -15,3 +15,4 @@ Help to grow the list.  **Fork, extend, pull request!**
 * [University of Texas Libraries (TIS / The Libratory)](https://github.com/TheLibratory)
 * [Wayne State University](https://github.com/waynestate)
 * [Yale University (Student Technology)](https://github.com/YaleSTC)
+* [York University (Libraries)](https://github.com/yorkulibraries)

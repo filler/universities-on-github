@@ -20,3 +20,4 @@ Help to grow the list.  **Fork, extend, pull request!**
 * [Yale University (Manuscripts and Archives)](https://github.com/yalemssa)
 * [Yale University (Student Technology)](https://github.com/YaleSTC)
 * [York University (Libraries)](https://github.com/yorkulibraries)
+* [The George Washington University (Libraries)](https://github.com/organizations/gwu-libraries)

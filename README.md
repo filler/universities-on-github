@@ -5,6 +5,7 @@ List of universities which have a public organization on GitHub.
 Help to grow the list.  **Fork, extend, pull request!**
 
 * [Brown University (Library)](https://github.com/Brown-University-Library)
+* [George Washington University (Libraries)](https://github.com/gwu-libraries)
 * [Harvard University (Library Innovation Lab)](https://github.com/harvard-lil)
 * [Michigan State University](https://github.com/organizations/Michigan-State-University)
 * [New York University Libraries](https://github.com/NYULibraries)

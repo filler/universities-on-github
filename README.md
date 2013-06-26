@@ -6,6 +6,7 @@ Help to grow the list.  **Fork, extend, pull request!**
 
 * [Brown University (Library)](https://github.com/Brown-University-Library)
 * [Harvard University (Library Innovation Lab)](https://github.com/harvard-lil)
+* [Michigan State University](https://github.com/organizations/Michigan-State-University)
 * [University of California Davis](https://github.com/ucdavis)
 * [University of Iowa](https://github.com/uiowa)
 * [University of London (Computer Centre)](https://github.com/ULCC)

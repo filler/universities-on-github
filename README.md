@@ -2,12 +2,16 @@ universities-on-github
 ======================
 
 List of universities which have a public organization on GitHub.
-Help to grow the list.  **Fork, extend, pull request!**
+Help to grow the list.  
+
+**Fork,** 
+**extend,** 
+**pull request!**
 
 * [Brown University (Library)](https://github.com/Brown-University-Library)
 * [California State University San Marcos (Library)](https://github.com/csusm-library)
+* [George Washington University (Libraries)](https://github.com/gwu-libraries)
 * [Georgetown University (Libraries)](https://github.com/Georgetown-University-Libraries)
-* [George Washington University (Libraries)](https://github.com/gwu-libraries/)
 * [Grand Valley State University (Libraries)](https://github.com/gvsulib)
 * [Harvard University (Library Innovation Lab)](https://github.com/harvard-lil)
 * [Michigan State University](https://github.com/organizations/Michigan-State-University)
@@ -19,15 +23,10 @@ Help to grow the list.  **Fork, extend, pull request!**
 * [Ryerson University (Library and Archives)](https://github.com/ryersonlibrary/)
 * [University of Alberta (Libraries)](https://github.com/ualbertalib)
 * [University of Arizona (Libraries)](https://github.com/ualibraries)
-* [George Washington University (Libraries)](https://github.com/gwu-libraries)
-* [Harvard University (Library Innovation Lab)](https://github.com/harvard-lil)
-* [Michigan State University](https://github.com/organizations/Michigan-State-University)
-* [New York University Libraries](https://github.com/NYULibraries)
-* [University of Alberta Libraries](https://github.com/ualbertalib)
 * [University of California Davis](https://github.com/ucdavis)
 * [University of California San Diego (Libraries)](https://github.com/ucsdlib)
-* [University of Iowa](https://github.com/uiowa)
 * [University of Iowa (Libraries)](https://github.com/ui-libraries)
+* [University of Iowa](https://github.com/uiowa)
 * [University of London (Computer Centre)](https://github.com/ULCC)
 * [University of Nebraska Lincoln](https://github.com/unl)
 * [University of North Carolina at Chapel Hill Libraries](https://github.com/UNC-Libraries)

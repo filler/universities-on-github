@@ -21,6 +21,7 @@ Help to grow the list.
 * [Ohio State University (Libraries)](https://github.com/osulibraries/)
 * [Princeton University (Libraries)](https://github.com/pulibrary)
 * [Ryerson University (Library and Archives)](https://github.com/ryersonlibrary/)
+* [Royal Roads University (Open Royal Roads) (https://github.com/royalroads/)
 * [University of Alberta (Libraries)](https://github.com/ualbertalib)
 * [University of Arizona (Libraries)](https://github.com/ualibraries)
 * [University of California Davis](https://github.com/ucdavis)

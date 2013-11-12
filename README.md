@@ -2,10 +2,10 @@ universities-on-github
 ======================
 
 List of universities which have a public organization on GitHub.
-Help to grow the list.  
+Help to grow the list.
 
-**Fork,** 
-**extend,** 
+**Fork,**
+**extend,**
 **pull request!**
 
 * [Brown University (Library)](https://github.com/Brown-University-Library)
@@ -21,7 +21,10 @@ Help to grow the list.
 * [Ohio State University (Libraries)](https://github.com/osulibraries/)
 * [Princeton University (Libraries)](https://github.com/pulibrary)
 * [Ryerson University (Library and Archives)](https://github.com/ryersonlibrary/)
-* [Royal Roads University (Open Royal Roads) (https://github.com/royalroads/)
+* [Royal Roads University (Open Royal Roads)](https://github.com/royalroads/)
+* [Stanford University (Web Services)](https://github.com/SU-SWS)
+* [Stanford University (Online Education)](https://github.com/Stanford-Online)
+* [Stanford University (Pervasive Parallelism Lab)](https://github.com/stanford-ppl)
 * [University of Alberta (Libraries)](https://github.com/ualbertalib)
 * [University of Arizona (Libraries)](https://github.com/ualibraries)
 * [University of California Davis](https://github.com/ucdavis)

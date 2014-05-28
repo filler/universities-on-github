@@ -28,6 +28,7 @@ Help to grow the list.
 * [University of Alberta (Libraries)](https://github.com/ualbertalib)
 * [University of Arizona (Libraries)](https://github.com/ualibraries)
 * [University of California Davis](https://github.com/ucdavis)
+* [University of California Los Angeles](https://github.com/ucla)
 * [University of California San Diego (Libraries)](https://github.com/ucsdlib)
 * [University of Iowa (Libraries)](https://github.com/ui-libraries)
 * [University of Iowa](https://github.com/uiowa)

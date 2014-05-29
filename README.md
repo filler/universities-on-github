@@ -14,7 +14,7 @@ Help to grow the list.
 * [Georgetown University (Libraries)](https://github.com/Georgetown-University-Libraries)
 * [Grand Valley State University (Libraries)](https://github.com/gvsulib)
 * [Harvard University (Library Innovation Lab)](https://github.com/harvard-lil)
-* [Michigan State University](https://github.com/organizations/Michigan-State-University)
+* [Michigan State University](https://github.com/Michigan-State-University)
 * [Montclair State University](https://github.com/MontclairState)
 * [New York University (Libraries)](https://github.com/NYULibraries)
 * [North Carolina State University (Libraries)](https://github.com/NCSU-Libraries)

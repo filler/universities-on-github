@@ -30,6 +30,7 @@ Help to grow the list.
 * [University of California Davis](https://github.com/ucdavis)
 * [University of California Los Angeles](https://github.com/ucla)
 * [University of California San Diego (Libraries)](https://github.com/ucsdlib)
+* [University of Derby](https://github.com/universityofderby/)
 * [University of Iowa (Libraries)](https://github.com/ui-libraries)
 * [University of Iowa](https://github.com/uiowa)
 * [University of London (Computer Centre)](https://github.com/ULCC)

@@ -45,6 +45,7 @@ Help to grow the list.
 * [University of Notre Dame Hesburgh Libraries](https://github.com/ndlib)
 * [University of Tennessee Health Science Center](https://github.com/uthsc)
 * [University of Texas Libraries (TIS / The Libratory)](https://github.com/TheLibratory)
+* [Washington State University](https://github.com/washingtonstateuniversity)
 * [Wayne State University](https://github.com/waynestate)
 * [Yale University (Library)](https://github.com/yalelibrary)
 * [Yale University (Manuscripts and Archives)](https://github.com/yalemssa)

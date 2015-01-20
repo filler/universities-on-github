@@ -30,6 +30,7 @@ Help to grow the list.
 * [University of Alberta (Libraries)](https://github.com/ualbertalib)
 * [University of Arizona (Libraries)](https://github.com/ualibraries)
 * [University of California Berkeley](https://github.com/ucberkeley)
+* [University of California Berkeley (Hackers at Berkeley)](https://github.com/HackBerkeley)
 * [University of California Davis](https://github.com/ucdavis)
 * [University of California Irvine](https://github.com/ucirvine)
 * [University of California Los Angeles](https://github.com/ucla)

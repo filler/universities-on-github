@@ -35,6 +35,7 @@ Help to grow the list.
 * [University of California Irvine](https://github.com/ucirvine)
 * [University of California Los Angeles](https://github.com/ucla)
 * [University of California San Diego (Libraries)](https://github.com/ucsdlib)
+* [University of California Santa Barbara (Financial Aid)](https://github.com/ucsbfinaid)
 * [University of California Santa Cruz](https://github.com/ucsc)
 * [University of Derby](https://github.com/universityofderby/)
 * [University of Iowa (Libraries)](https://github.com/ui-libraries)

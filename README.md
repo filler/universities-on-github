@@ -12,6 +12,7 @@ Help to grow the list.
 * [California Baptist University](https://github.com/calbaptist)
 * [California State University San Marcos (Library)](https://github.com/csusm-library)
 * [Chapman University](https://github.com/chapmanu)
+* [Czech Technical University in Prague](https://github.com/cvut)
 * [George Washington University (Libraries)](https://github.com/gwu-libraries)
 * [Georgetown University (Libraries)](https://github.com/Georgetown-University-Libraries)
 * [Grand Valley State University (Libraries)](https://github.com/gvsulib)

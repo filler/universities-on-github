@@ -33,6 +33,7 @@ Help to grow the list.
 * [Stanford University (Pervasive Parallelism Lab)](https://github.com/stanford-ppl)
 * [University of Alberta (Libraries)](https://github.com/ualbertalib)
 * [University of Arizona (Libraries)](https://github.com/ualibraries)
+* [University of British Columbia (Libraries)](https://github.com/ubc-library)
 * [University of California Berkeley](https://github.com/ucberkeley)
 * [University of California Berkeley (Hackers at Berkeley)](https://github.com/HackBerkeley)
 * [University of California Davis](https://github.com/ucdavis)

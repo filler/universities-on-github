@@ -11,6 +11,7 @@ Help to grow the list.
 * [Brown University (Library)](https://github.com/Brown-University-Library)
 * [California Baptist University](https://github.com/calbaptist)
 * [California State University San Marcos (Library)](https://github.com/csusm-library)
+* [Carnegie Mellon (Efficient Computing)](https://github.com/efficient)
 * [Chapman University](https://github.com/chapmanu)
 * [Czech Technical University in Prague](https://github.com/cvut)
 * [George Washington University (Libraries)](https://github.com/gwu-libraries)

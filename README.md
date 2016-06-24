@@ -8,6 +8,7 @@ Help to grow the list.
 **extend,**
 **pull request!**
 
+* [Biola University](https://github.com/biola)
 * [Brown University (Library)](https://github.com/Brown-University-Library)
 * [California Baptist University](https://github.com/calbaptist)
 * [California State University San Marcos (Library)](https://github.com/csusm-library)
@@ -64,4 +65,3 @@ Help to grow the list.
 * [Yale University (Manuscripts and Archives)](https://github.com/yalemssa)
 * [Yale University (Student Technology)](https://github.com/YaleSTC)
 * [York University (Libraries)](https://github.com/yorkulibraries)
-

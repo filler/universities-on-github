@@ -28,6 +28,7 @@ Help to grow the list.
 * [Oregon State University (Libraries & Press)](https://github.com/osulp)
 * [Oregon State University (Network Services)](https://github.com/OSU-Net)
 * [Oregon State University (Robotics Club)](https://github.com/OSURoboticsClub)
+* [Portland Community College](https://github.com/portlandcc)
 * [Portland State University (Aerospace Society)](https://github.com/psas)
 * [Portland State University (Electronics Prototyping Lab)](https://github.com/psu-epl)
 * [Portland State University (Library)](https://github.com/pdxlibrary)

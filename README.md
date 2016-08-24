@@ -9,6 +9,7 @@ Help to grow the list.
 **pull request!**
 
 * [Biola University](https://github.com/biola)
+* [Boston College (Libraries)](https://github.com/BCLibraries)
 * [Brown University (Library)](https://github.com/Brown-University-Library)
 * [California Baptist University](https://github.com/calbaptist)
 * [California State University San Marcos (Library)](https://github.com/csusm-library)

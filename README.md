@@ -59,6 +59,7 @@ Help to grow the list.
 * [University of Nebraska Lincoln](https://github.com/unl)
 * [University of North Carolina at Chapel Hill Libraries](https://github.com/UNC-Libraries)
 * [University of Notre Dame Hesburgh Libraries](https://github.com/ndlib)
+* [University of Oregon (Libraries)](https://github.com/uoregon-libraries)
 * [University of Pittsburgh (Libraries)](https://github.com/ulsdevteam)
 * [University of Tennessee Health Science Center](https://github.com/uthsc)
 * [University of Texas Libraries (TIS / The Libratory)](https://github.com/TheLibratory)

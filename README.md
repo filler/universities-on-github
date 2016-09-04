@@ -19,6 +19,7 @@ Help to grow the list.
 * [George Washington University (Libraries)](https://github.com/gwu-libraries)
 * [Georgetown University (Libraries)](https://github.com/Georgetown-University-Libraries)
 * [Grand Valley State University (Libraries)](https://github.com/gvsulib)
+* [Harvard University (Graduate School of Education)](https://github.com/gsehub)
 * [Harvard University (Library Innovation Lab)](https://github.com/harvard-lil)
 * [Michigan State University](https://github.com/Michigan-State-University)
 * [Montclair State University](https://github.com/MontclairState)

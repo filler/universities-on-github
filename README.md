@@ -71,3 +71,4 @@ Help to grow the list.
 * [Yale University (Manuscripts and Archives)](https://github.com/yalemssa)
 * [Yale University (Student Technology)](https://github.com/YaleSTC)
 * [York University (Libraries)](https://github.com/yorkulibraries)
+* [York University (Library Computing Services)](https://github.com/yorkulcs/)

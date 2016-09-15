@@ -12,6 +12,7 @@ Help to grow the list.
 * [Boston College (Libraries)](https://github.com/BCLibraries)
 * [Brown University (Library)](https://github.com/Brown-University-Library)
 * [California Baptist University](https://github.com/calbaptist)
+* [California State University Northridge (Student Affairs IT)](https://github.com/csun-student-affairs)
 * [California State University San Marcos (Library)](https://github.com/csusm-library)
 * [Carnegie Mellon (Efficient Computing)](https://github.com/efficient)
 * [Chapman University](https://github.com/chapmanu)

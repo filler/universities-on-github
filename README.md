@@ -48,6 +48,7 @@ Help to grow the list.
 * [Universidade Federal do Rio Grande do Sul (Brazil)](https://github.com/ufrgs)
 * [University of Alberta (Libraries)](https://github.com/ualbertalib)
 * [University of Arizona (Libraries)](https://github.com/ualibraries)
+* [University of British Columbia](https://github.com/ubc)
 * [University of British Columbia (Libraries)](https://github.com/ubc-library)
 * [University of California Berkeley](https://github.com/ucberkeley)
 * [University of California Berkeley (Hackers at Berkeley)](https://github.com/HackBerkeley)

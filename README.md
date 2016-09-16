@@ -28,6 +28,7 @@ Help to grow the list.
 * [New York University (Libraries)](https://github.com/NYULibraries)
 * [North Carolina State University (Libraries)](https://github.com/NCSU-Libraries)
 * [Ohio State University (College of Arts and Sciences)](https://github.com/ASCTech)
+* [Oakland University](https://github.com/Oakland-University)
 * [Ohio State University (Libraries)](https://github.com/osulibraries/)
 * [Oregon State University (Cartography & Geovisualization)](https://github.com/OSUCartography)
 * [Oregon State University (Libraries & Press)](https://github.com/osulp)

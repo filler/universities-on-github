@@ -70,6 +70,7 @@ Help to grow the list.
 * [University of Pittsburgh (Libraries)](https://github.com/ulsdevteam)
 * [University of Tennessee Health Science Center](https://github.com/uthsc)
 * [University of Texas Libraries (TIS / The Libratory)](https://github.com/TheLibratory)
+* [Virginia Polytechnic Institute and State University (Libraries)](https://github.com/VTUL)
 * [Washington State University](https://github.com/washingtonstateuniversity)
 * [Wayne State University](https://github.com/waynestate)
 * [Yale University (Library)](https://github.com/yalelibrary)

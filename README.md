@@ -72,6 +72,7 @@ Help to grow the list.
 * [University of Notre Dame (Webgroup)](https://github.com/ndwebgroup/)
 * [University of Oregon (Libraries)](https://github.com/uoregon-libraries)
 * [University of Pittsburgh (Libraries)](https://github.com/ulsdevteam)
+* [University of Portland](https://github.com/UniversityofPortland)
 * [University of Tennessee Health Science Center](https://github.com/uthsc)
 * [University of Texas Libraries (TIS / The Libratory)](https://github.com/TheLibratory)
 * [Virginia Polytechnic Institute and State University (Libraries)](https://github.com/VTUL)

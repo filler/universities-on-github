@@ -75,6 +75,7 @@ Help to grow the list.
 * [University of Portland](https://github.com/UniversityofPortland)
 * [University of Tennessee Health Science Center](https://github.com/uthsc)
 * [University of Texas Libraries (TIS / The Libratory)](https://github.com/TheLibratory)
+* [University of Wisconsin (Division of Information Technology)](https://github.com/UW-Madison-DoIT)
 * [Virginia Polytechnic Institute and State University (Libraries)](https://github.com/VTUL)
 * [Washington State University](https://github.com/washingtonstateuniversity)
 * [Wayne State University](https://github.com/waynestate)

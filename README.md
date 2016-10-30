@@ -10,6 +10,7 @@ Help to grow the list.
 
 * [Biola University](https://github.com/biola)
 * [Boston College (Libraries)](https://github.com/BCLibraries)
+* [Boston University (Information Services & Technology)](https://github.com/bu-ist)
 * [Brown University (Library)](https://github.com/Brown-University-Library)
 * [California Baptist University](https://github.com/calbaptist)
 * [California State University Northridge (Student Affairs IT)](https://github.com/csun-student-affairs)

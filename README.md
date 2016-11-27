@@ -16,6 +16,7 @@ Help to grow the list.
 * [California State University Northridge (Student Affairs IT)](https://github.com/csun-student-affairs)
 * [California State University San Marcos (Library)](https://github.com/csusm-library)
 * [Carnegie Mellon (Efficient Computing)](https://github.com/efficient)
+* [Case Western Reserve University (Kelvin Smith Library)](https://github.com/KelvinSmithLibrary)
 * [Chapman University](https://github.com/chapmanu)
 * [Czech Technical University in Prague](https://github.com/cvut)
 * [George Washington University (Libraries)](https://github.com/gwu-libraries)
